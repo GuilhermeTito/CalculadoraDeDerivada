@@ -4,9 +4,9 @@
 #include <math.h>
 
 //Esther Moreira Pedrosa
-//F�bio Eloy Passos
+//Fábio Eloy Passos
 //Guilherme Ferras Ronha
-//jonathan Henrique Gon�alves
+//Jonathan Henrique Gonçalves
 //Larissa Gabrielle de Souza
 
 int main(){
