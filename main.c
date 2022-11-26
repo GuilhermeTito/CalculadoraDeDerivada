@@ -3,6 +3,12 @@
 #include <locale.h>
 #include <math.h>
 
+//Esther Moreira Pedrosa
+//F�bio Eloy Passos
+//Guilherme Ferras Ronha
+//jonathan Henrique Gon�alves
+//Larissa Gabrielle de Souza
+
 int main(){
 
     setlocale(LC_ALL, "Portuguese");
